@@ -1,0 +1,6 @@
+{
+  "name": "IRA",
+  "description": "Intelligent Reasoning Autonomous Agent - 100% On-Device, Zero-Cloud, Privacy-First Personal AI Assistant by Pratimesh Tonde (AIX TECH)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
