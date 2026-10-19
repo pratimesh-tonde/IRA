@@ -191,8 +191,9 @@ Each step is validated. If one fails, IRA recovers automatically or informs you.
 | 🧪 **Device Intelligence** | `storage_analyzer` `app_launcher` `memory_cleanup_stats` `network_speed_ping` | Native system diagnostics, no third-party SDKs |
 
 ---
+## 📦 Build & Install
 
-###  Gradle CLI
+#  Gradle CLI
 
 ```bash
 # Clone the repository
